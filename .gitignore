@@ -1,1 +1,7 @@
 .vagrant/
+*.pdf
+*.log
+*.tex
+*.fls
+*.fdb_latexmk
+*.aux
