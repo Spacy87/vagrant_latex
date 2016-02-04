@@ -1,7 +1,13 @@
 .vagrant/
+
+# Files created by latexmk
 *.pdf
 *.log
 *.tex
 *.fls
 *.fdb_latexmk
 *.aux
+
+# Sublime Text project files
+*.sublime-project
+*.sublime-workspace
