@@ -1,0 +1,6 @@
+configs:
+  basic_provision: "provision.sh"
+  extra_provision_location: "extra_provisioning"
+  extra_provision:
+    - "latex_languages.sh"  
+    - "python_dependencies.sh"
